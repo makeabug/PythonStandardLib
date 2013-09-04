@@ -1,0 +1,5 @@
+.settings
+.buildpath
+.project
+*.pyc
+chpt1/*.pyc
