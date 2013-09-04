@@ -1,5 +1,6 @@
 .settings
 .buildpath
 .project
+.pydevproject
 *.pyc
 chpt1/*.pyc
